@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kushen De Silva</h1>
-<h3 align="center">Web & Mobile Application Developer</h3>
+<h1 align="center">Hi <img style="margin-bottom:-3px;" src="https://images.squarespace-cdn.com/content/v1/5b5587ed8ab722298af0921a/4d51fa35-1bcb-4385-9be6-03f330e5dad6/ABOUT-US-JOHN-WAVING.gif" width="40">, I'm Kushen De Silva</h1>
+<p align="center"><em>Web & Mobile Application Developer..<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p><br>
 
-- 👨‍💻 My Personal & Professional Details available at **https://kushen.tech**
-
-- 📫 How to reach me **kushendesilva@gmail.com**
+- 🌐 My Personal Website - **https://kushen.tech**
+- 📫 How to reach me - **kushendesilva@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
