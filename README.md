@@ -2,7 +2,7 @@
 
 <!-- ## 💻 Project Name -->
 
-[![Website](https://img.shields.io/badge/Website-008080?style=for-the-badge&logoColor=white)](https://kushen.tech)
+[![Website](https://img.shields.io/badge/Personal_Website-008080?style=for-the-badge&logoColor=white)](https://kushen.tech)
 [![Portfolio](https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logoColor=white)](https://kushen.me)
 [![Email](https://img.shields.io/badge/Email-008080?style=for-the-badge&logoColor=white)](mailto:kushendesilva@gmail.com)
 
