@@ -2,9 +2,9 @@
 
 <!-- ## 💻 Project Name -->
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=white)](https://kushen.tech)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white)](https://kushen.me)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logoColor=white)](mailto:kushendesilva@gmail.com)
+[![Website](https://img.shields.io/badge/Website-008080?style=for-the-badge&logoColor=white)](https://kushen.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logoColor=white)](https://kushen.me)
+[![Email](https://img.shields.io/badge/Email-008080?style=for-the-badge&logoColor=white)](mailto:kushendesilva@gmail.com)
 
 <!--
 [![Project](https://img.shields.io/badge/Project-000000?style=for-the-badge&logoColor=white)](https://posify-web.web.app)
@@ -57,7 +57,7 @@
 
 ## 💰 You can help me by Donating
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffffff?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kushendesilva) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-ffffff?style=for-the-badge&logo=ko-fi&logoColor=black)](https://ko-fi.com/kushendesilva)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/kushendesilva) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kushendesilva)
 
 ## 📈 GitHub Stats:
 
