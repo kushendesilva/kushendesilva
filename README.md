@@ -2,13 +2,13 @@
 
 <!-- ## 💻 Project Name -->
 
-[![Website](https://img.shields.io/badge/Personal_Website-008080?style=for-the-badge&logoColor=white)](https://kushen.tech)
-[![Portfolio](https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logoColor=white)](https://kushen.me)
-[![Email](https://img.shields.io/badge/Email-008080?style=for-the-badge&logoColor=white)](mailto:kushendesilva@gmail.com)
+[![Website](https://img.shields.io/badge/Personal_Website-008080?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://kushen.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logo=Files&logoColor=white)](https://kushen.me)
+[![Email](https://img.shields.io/badge/Email-008080?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kushendesilva@gmail.com)
 
 <!--
-[![Project](https://img.shields.io/badge/Project-000000?style=for-the-badge&logoColor=white)](https://posify-web.web.app)
-[![APK](https://img.shields.io/badge/APK-000000?style=for-the-badge&logoColor=white)](https://github.com/kushendesillva/pickngo/releases/download/v2.0.0/pickngo.apk)
+[![APK](https://img.shields.io/badge/APK-008080?style=for-the-badge&logo=GooglePlay&logoColor=white)](https://github.com/kushendesillva/pickngo/releases/download/v2.0.0/pickngo.apk)
+[![Project](https://img.shields.io/badge/Project-008080?style=for-the-badge&logo=GoogleCloud&logoColor=white)](https://ksuehn.me)
 -->
 
 ## 🌐 Socials:
