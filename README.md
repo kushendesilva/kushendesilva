@@ -1,4 +1,4 @@
-## 🧐 Hey, I'm Kushen De Silva
+## 🙃 Hey, I'm Kushen De Silva
 
 <!-- ## 💻 Project Name -->
 
