@@ -57,7 +57,7 @@
 
 ## 💰 You can help me by Donating
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/kushendesilva) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kushendesilva)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/kushendesilva) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kushendesilva) [![PayPal](https://img.shields.io/badge/Paypal-000000?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=3SELR3KCPAKS4)
 
 ## 📈 GitHub Stats:
 
