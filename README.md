@@ -2,8 +2,8 @@
 
 <!-- ## 💻 Project Name -->
 
-[![Website](https://img.shields.io/badge/Personal_Website-008080?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://kushen.tech)
-[![Portfolio](https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logo=Files&logoColor=white)](https://kushen.me)
+[![Website](https://img.shields.io/badge/Personal_Website-008080?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://dsilva.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logo=Files&logoColor=white)](https://projects.dsilva.tech)
 [![Email](https://img.shields.io/badge/Email-008080?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kushendesilva@gmail.com)
 
 <!--
