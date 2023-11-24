@@ -1,9 +1,8 @@
-## 🙃 Hey, I'm Kushen De Silva
+## 🙃 Hey, I'm <a href="https://dsilva.tech">Kushen De Silva</a>
 
 <!-- ## 💻 Project Name -->
 
-[![Website](https://img.shields.io/badge/Personal_Website-008080?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://dsilva.tech)
-[![Portfolio](https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logo=Files&logoColor=white)](https://projects.dsilva.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logo=Files&logoColor=white)](https://portfolio.dsilva.tech)
 [![Email](https://img.shields.io/badge/Email-008080?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kushendesilva@gmail.com)
 
 <!--
