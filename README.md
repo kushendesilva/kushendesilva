@@ -1,4 +1,4 @@
-## 🙃 Hey, I'm <a href="https://dsilva.tech">Kushen De Silva</a>
+## 🙃 Hey, I'm Kushen De Silva
 
 <!-- ## 💻 Project Name -->
 
@@ -12,7 +12,7 @@
 
 ## 🌐 Socials:
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94727827878)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94717827878)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushendesilva)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/kushendesilva)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kushendesilva)
