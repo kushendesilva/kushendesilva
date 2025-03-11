@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Kushen De Silva, a full-time Software Engineer 👨‍💻</div>  
+### <div align="center">I'm <a href="https://dev.desilva.tech">Kushen De Silva</a>, a full-time Software Engineer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working at [John Keells Holdings PLC](https://www.keells.com/)  
